@@ -17,6 +17,7 @@ A simple command-line to-do list application that helps you manage your daily ta
 git clone https://github.com/yourusername/python-todo-list.git
 cd python-todo-list
 python todo_list.py
+```
 Menu Options
 
 Add task
