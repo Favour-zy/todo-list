@@ -1,6 +1,6 @@
 **To-Do List**
 
-```markdown
+
 # Python To-Do List Application
 
 A simple command-line to-do list application that helps you manage your daily tasks.
